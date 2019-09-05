@@ -1,0 +1,991 @@
+# Sequence,Person
+['bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['livingLight_off', 'bedroomCarp_on'],0
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'livingCarp_on', 'livingLight_on', 'livingCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenDoor_on', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off', 'fridge_on', 'fridge_off'],0
+['kitchenLight_off', 'kitchenDoor_off', 'kitchenDoor_on', 'kitchenCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],0
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'kitchenCarp_on', 'kitchenCarp_off', 'hallwayLight_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],0
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'couch_on', 'tv_on'],0
+['tv_off', 'couch_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],0
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],0
+['couch_off', 'livingCarp_off', 'hallwayLight_on', 'officeCarp_on', 'office_on'],0
+['office_off', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingCarp_off', 'bedroomCarp_on', 'bed_off'],0
+['bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
+['officeDoor_off', 'bedroomCarp_on'],1
+['bedroomLight_on', 'bedroomDoor_on', 'bedroomLight_off', 'bedroomCarp_off', 'bathroomDoor_on', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off', 'bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'kitchenDoor_on', 'kitchenCarp_on'],1
+['kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'officeDoor_off', 'hallwayLight_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'livingLight_off', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on'],1
+['fridge_on', 'fridge_off', 'kitchenLight_off', 'kitchenCarp_off', 'hallwayLight_on', 'officeDoor_on', 'officeCarp_on', 'officeDoor_off', 'office_on'],1
+['office_off', 'officeDoor_on', 'officeCarp_off', 'hallwayLight_off', 'bedroomCarp_on', 'bed_off', 'bed_on', 'bed_off', 'bed_on'],1
+['bed_off', 'bed_on', 'bed_off', 'bedroomCarp_off', 'bedroomCarp_on', 'bedroomCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'kitchenCarp_off', 'kitchenCarp_on', 'oven_on'],1
+['oven_off'],1
+['oven_on'],1
+['oven_off', 'kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'livingCarp_off', 'livingCarp_on', 'livingLight_on', 'couch_on', 'tv_on'],1
+['tv_off', 'couch_off', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bathroomCarp_on', 'bathroomLight_on', 'bathroomDoor_off'],1
+['bathroomLight_off', 'bathroomDoor_on', 'bathroomCarp_off', 'livingCarp_on', 'livingCarp_off', 'kitchenCarp_on', 'kitchenLight_on', 'oven_on', 'oven_off'],1
+['kitchenLight_off', 'kitchenCarp_off', 'livingCarp_on', 'couch_on'],1
+['couch_off', 'livingCarp_off', 'bedroomCarp_on', 'bed_on'],1
+['bed_off'],1
